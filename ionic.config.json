@@ -1,0 +1,7 @@
+{
+  "name": "my-body-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
